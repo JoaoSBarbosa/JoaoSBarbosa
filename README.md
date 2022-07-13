@@ -2,11 +2,19 @@
 
 
 
-Here are some ideas to get you started:
 
-- 🌱 Estudando front-end(HTML, CSS, JavaScript) e back-end(Java, Spring)
+
+- 🌱 Estudando front-end (HTML, CSS, JavaScript) e back-end (Java, Spring)
 - 📫 Encontre-me no Linkedin: linkedin.com/in/joao-da-silva-barbosa
 - 😄 Pronouns: ele/dele
+
+
+
+<div align="center">
+  <a href="https://github.com/JoaoSBarbosa">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&layout=compact&langs_count=7&theme=onedark"/>
+</div>
 
 
 
