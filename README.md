@@ -3,11 +3,16 @@
 
 
 - 🌱 Estudando front-end (HTML, CSS, JavaScript) e back-end (Java, Spring)
-- 📫 Encontre-me no Linkedin: linkedin.com/in/joao-da-silva-barbosa
+- 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
 - 😄 Pronouns: ele/dele
 
-
-
+## Confira o último projeto desenvolvido: https://dsmetaconsultadevendas.netlify.app/
+ - Spring Boot
+ - React
+ - Html
+ - Typescript
+ - Css
+##
 <div align="center">
   <a href="https://github.com/JoaoSBarbosa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=onedark"/>
