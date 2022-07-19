@@ -6,7 +6,7 @@
 - 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
 - 😄 Pronouns: ele/dele
 
-## Confira o último projeto desenvolvido: https://dsmetaconsultadevendas.netlify.app/
+## Confira o último projeto desenvolvido: <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
  - Spring Boot
  - React
  - Html
