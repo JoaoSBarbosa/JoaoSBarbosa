@@ -2,7 +2,7 @@
  # Olá, eu sou o João Barbosa 👋😃
 
 
-- 🌱 Estudando front-end (HTML, CSS, JavaScript) e back-end (Java, Spring)
+- 🌱 Estudando back-end (Java, Spring) e front-end (HTML, CSS, JavaScript) 
 - 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
 - 😄 Pronouns: ele/dele
 
