@@ -1,8 +1,14 @@
 
- # Olá, eu sou o João Barbosa 👋😃
+ # Olá, eu sou o João Barbosa 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+
+ 
 
 
-- 🌱 Estudando back-end (Java, Spring) e front-end (HTML, CSS, JavaScript) 
+### Estou estudando 🌱 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+
+
+
 - 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
 - 😄 Pronouns: ele/dele
 
@@ -33,6 +39,8 @@
   <img align="center" alt="joão-Python" height="30" width="40" src="https://user-images.githubusercontent.com/87210017/178841628-d421e537-eca4-4034-9bb8-11f772f90abf.svg">
   
   <img align="center" alt="joão-java" height="30" width="40" src="https://user-images.githubusercontent.com/87210017/178841719-cb6aec84-1482-48c9-8494-fa5726ac1b93.svg">
+ <img align="center" alt="joão-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
   
 </div>
   
