@@ -20,6 +20,10 @@
  <a href="https://megasena-bybarbosa.netlify.app/" target="_blank">Mega Sena</a>
 </p> 
 
+<p>🟢
+ <a href="https://calculate-imc-bybarbosa.netlify.app/" target="_blank"> Calcular IMC</a>
+</P>
+
 ##
 <div align="center">
   <a href="https://github.com/JoaoSBarbosa">
