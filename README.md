@@ -12,12 +12,14 @@
 - 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
 - 😄 Pronouns: ele/dele
 
-## Confira o último projeto desenvolvido: <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
- - Spring Boot
- - React
- - Html
- - Typescript
- - Css
+## Projetos desenvolvidos: 
+<p>🟣
+ <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
+</p> 
+<p> ⚫
+ <a href="https://megasena-bybarbosa.netlify.app/" target="_blank">Mega Sena</a>
+</p> 
+
 ##
 <div align="center">
   <a href="https://github.com/JoaoSBarbosa">
