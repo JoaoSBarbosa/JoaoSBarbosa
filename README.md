@@ -3,8 +3,8 @@
 
  
 
-
-### Estou estudando 🌱 
+####  Graduando Análise e Desenvolvimento de Sistemas
+####  Estudando🌱 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
 
 
@@ -55,10 +55,4 @@
 <div align="center"> 
   <a href = "mailto:contato.jsbarbosa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-da-silva-barbosa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/JoaoSBarbosa/JoaoSBarbosa/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
