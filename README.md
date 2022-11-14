@@ -3,8 +3,8 @@
 
  
 
-####  Graduando Análise e Desenvolvimento de Sistemas
-####  Estudando🌱 
+###  Graduando Análise e Desenvolvimento de Sistemas
+###  Estudando🌱 
 <div align="left" padding="10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40" /> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" width="40"/>
@@ -14,9 +14,8 @@
 </div>
 
 
-- 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
 
-## Projetos desenvolvidos: 
+### Projetos desenvolvidos: 
 <p> 🟣
  <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
 </p> 
