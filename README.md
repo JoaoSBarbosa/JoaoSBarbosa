@@ -1,11 +1,12 @@
 
- # Olá, eu sou o João Barbosa 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+ # Olá, eu sou o João Barbosa 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
 
- 
+ <i class="devicon-github-original" height="50"></i>
+
 
 ###  Graduando Análise e Desenvolvimento de Sistemas
 ##
-###  Estou estudando:</br> 
+###  Estou estudando: 
 <div align="left" padding="10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50">
