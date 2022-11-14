@@ -1,7 +1,6 @@
 
  # Olá, eu sou o João Barbosa 👋 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
 
- <i class="devicon-github-original" height="50"></i>
 
 
 ###  Graduando Análise e Desenvolvimento de Sistemas
