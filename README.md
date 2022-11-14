@@ -10,19 +10,21 @@
 
 
 - 📫 Encontre-me no <a href="https://www.linkedin.com/in/joao-da-silva-barbosa/" target="_blank"> Linkedin</a>
-- 😄 Pronouns: ele/dele
 
 ## Projetos desenvolvidos: 
-<p>🟣
+<p> 🟣
  <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
 </p> 
 <p> ⚫
  <a href="https://megasena-bybarbosa.netlify.app/" target="_blank">Mega Sena</a>
 </p> 
 
-<p>🟢
+<p> 🟢
  <a href="https://calculate-imc-bybarbosa.netlify.app/" target="_blank"> Calcular IMC</a>
 </P>
+<p> 🟣
+ <a href="https://galerias.netlify.app/" target="-blank">Galeria de Imagens</a>
+</p>
 
 ##
 <div align="center">
