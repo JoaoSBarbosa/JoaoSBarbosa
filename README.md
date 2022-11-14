@@ -4,6 +4,7 @@
  
 
 ###  Graduando Análise e Desenvolvimento de Sistemas
+##
 ###  Estudando🌱 
 <div align="left" padding="10px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" width="40" /> 
@@ -13,7 +14,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
 </div>
 
-
+##
 
 ### Projetos desenvolvidos: 
 <p> 🟣
