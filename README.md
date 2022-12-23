@@ -19,6 +19,9 @@
 ##
 
 ### Projetos desenvolvidos: 
+<p> 🔵
+ <a href="https://cyberdynesystemv2.netlify.app/home.html">Cyberdyne Data and System</a>
+ </p>
 <p> 🟣
  <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
 </p> 
@@ -29,7 +32,7 @@
 <p> 🟢
  <a href="https://calculate-imc-bybarbosa.netlify.app/" target="_blank"> Calcular IMC</a>
 </P>
-<p> 🟣
+<p> 🔵
  <a href="https://galerias.netlify.app/" target="-blank">Galeria de Imagens</a>
 </p>
 
