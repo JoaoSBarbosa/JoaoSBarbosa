@@ -19,6 +19,9 @@
 ##
 
 ### Projetos desenvolvidos: 
+<p> 🟢
+ <a href="https://project-starbucks.netlify.app/" target="_blank">Projeto Starbucks</a>
+</p> 
 <p> 🔵
  <a href="https://cyberdynesystemv2.netlify.app/home.html">Cyberdyne Data and System</a>
  </p>
