@@ -19,6 +19,9 @@
 ##
 
 ### Projetos desenvolvidos: 
+<p> 🟠
+ <a href="https://barbosapizzas.netlify.app/" target="_blank"> Sistema para comprar pizzas</a>
+</P>
 <p> 🟢
  <a href="https://project-starbucks.netlify.app/" target="_blank">Projeto Starbucks</a>
 </p> 
@@ -28,13 +31,7 @@
 <p> 🟣
  <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
 </p> 
-<p> ⚫
- <a href="https://megasena-bybarbosa.netlify.app/" target="_blank">Mega Sena</a>
-</p> 
 
-<p> 🟢
- <a href="https://calculate-imc-bybarbosa.netlify.app/" target="_blank"> Calcular IMC</a>
-</P>
 <p> 🔵
  <a href="https://galerias.netlify.app/" target="-blank">Galeria de Imagens</a>
 </p>
