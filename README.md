@@ -6,7 +6,7 @@
 ###  Graduando Análise e Desenvolvimento de Sistemas
 ##
 ###  Estou estudando: 
-<div align="left" padding="10px">
+<div align="left" padding="10px" display="flex">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
