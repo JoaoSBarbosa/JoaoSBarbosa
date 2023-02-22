@@ -9,33 +9,16 @@
 <div align="left" padding="10px">
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50">
+  
 </div>
 
 ##
 
-### Projetos desenvolvidos: 
-<p> 🟠
- <a href="https://barbosapizzas.netlify.app/" target="_blank"> Sistema para comprar pizzas</a>
-</P>
-<p> 🟢
- <a href="https://project-starbucks.netlify.app/" target="_blank">Projeto Starbucks</a>
-</p> 
-<p> 🔵
- <a href="https://cyberdynesystemv2.netlify.app/home.html">Cyberdyne Data and System</a>
- </p>
-<p> 🟣
- <a href="https://dsmetaconsultadevendas.netlify.app/" target="_blank">DevMeta</a>
-</p> 
-
-<p> 🔵
- <a href="https://galerias.netlify.app/" target="-blank">Galeria de Imagens</a>
-</p>
 
 ##
 <div align="center">
