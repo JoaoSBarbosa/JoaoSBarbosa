@@ -1,19 +1,18 @@
 ![visitas](https://visitor-badge.glitch.me/badge?page_id=JoaoSBarbosa.README.md&left_color=green&right_color=red)
- # Olá, eu sou o João Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<h1 align="center"> Olá, eu sou o João Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/></h1>
 
 <p align="center">
- <img alt="loficity" width="600px" src=""</img>
+ <img alt="loficity" width="600px" src="https://user-images.githubusercontent.com/87210017/220505019-e93d3be0-9696-4023-8734-fb16d04b91e4.gif"</img>
 </p>
+
 ###
 
 **Sobre mim**
 
-- 💼 Assistente de TI
+- 💼 Assistente de TI</li>
 - 👨🏾‍🎓 Graduando Análise e Desenvolvimento de Sistemas
 - 📈 Dev fullstack em desenvolvimento
-
 - ❤️ Gosto de programar, ler e jogar
-
 
  
 
