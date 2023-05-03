@@ -1,20 +1,24 @@
 ![visitas](https://visitor-badge.glitch.me/badge?page_id=JoaoSBarbosa.README.md&left_color=green&right_color=red)
 <h1 align="center"> Olá, eu sou o João Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/></h1>
-Sou um desenvolvedor front-end júnior com experiência em JavaScript, TypeScript, Java e SQL.
+<h2 align="center">Sou um desenvolvedor front-end júnior com experiência em JavaScript, TypeScript, Java e SQL.</h2>
 <p align="center">
+ <br>
  <img alt="loficity" width="600px" src="https://user-images.githubusercontent.com/87210017/220505019-e93d3be0-9696-4023-8734-fb16d04b91e4.gif"</img>
 </p>
 
 ###
 
-**Sobre mim**
+<h2 align="center">Sobre mim</h2>
 
-- 💼 Assistente de TI</li>
-- 👨🏾‍🎓 Graduando Análise e Desenvolvimento de Sistemas
-- 📈 Dev fullstack em desenvolvimento
-- ❤️ Gosto de programar, ler e jogar
 
- 
+<p>🌱 Atualmente estou aprendendo ReactJS e me aprofundando em JavaScript.<p>
+<p>💼 Trabalho como assistente de ti no desenvolvimento de pequenos sistemas e componentes front-end em projetos de e-commerce e integração de sistemas, além de ter habilidade em documentação.</p>
+<p>🔨 Habilidades técnicas: JavaScript, TypeScript, HTML, CSS, ReactJS, Sass, Java, SQL, Git e metodologias ágeis.</p>
+<p>🎓 Graduado em Analise e Desenvolvimento de Sistemas.</p>
+
+Estou sempre em busca de oportunidades para aprender e crescer como desenvolvedor front-end, colaborar em projetos desafiadores e ajudar a criar experiências incríveis para os usuários.
+
+Entre em contato comigo!
 
 
 <h3 align="center"> Buscando especialização em </h3>
