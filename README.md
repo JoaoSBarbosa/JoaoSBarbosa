@@ -11,7 +11,7 @@
 
 
 <p>🌱 Atualmente estou aprendendo ReactJS e me aprofundando em JavaScript.<p>
-<p>💼 Trabalho como assistente de ti no desenvolvimento de pequenos sistemas e componentes front-end em projetos de e-commerce e integração de sistemas, além de ter habilidade em documentação.</p>
+<p>💼 Sou desenvolvedor Front-end utilizando as linguagens JavaScript, HTML5 e CSS, para o desenvolvimento e manutenção de páginas web e componentes de interface em WordPress. Atuando em projetos de e-commerce.</p>
 <p>🔨 Habilidades técnicas: JavaScript, TypeScript, HTML, CSS, ReactJS, Sass, Java, SQL, Git e metodologias ágeis.</p>
 <p>🎓 Graduado em Analise e Desenvolvimento de Sistemas.</p>
 
