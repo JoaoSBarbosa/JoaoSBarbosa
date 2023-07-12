@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu sou o João Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/></h1>
-<h2 align="center">Sou um desenvolvedor front-end júnior com experiência em JavaScript, TypeScript, Java e SQL.</h2>
+<h2 align="center">Sou um desenvolvedor júnior com experiência em JavaScript, TypeScript, Java e SQL.</h2>
 <p align="center">
  <br>
  <img alt="loficity" width="600px" src="https://user-images.githubusercontent.com/87210017/220505019-e93d3be0-9696-4023-8734-fb16d04b91e4.gif"</img>
