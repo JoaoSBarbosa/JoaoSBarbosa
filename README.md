@@ -1,5 +1,5 @@
 <h1 align="center"> Olá, eu sou o João Barbosa <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/></h1>
-<h2 align="center">Sou um desenvolvedor júnior com experiência em JavaScript, TypeScript, Java e SQL.</h2>
+<h2 align="center">Sou um desenvolvedor júnior com experiência em JavaScript, React, Java e SQL.</h2>
 <p align="center">
  <br>
  <img alt="loficity" width="600px" src="https://user-images.githubusercontent.com/87210017/220505019-e93d3be0-9696-4023-8734-fb16d04b91e4.gif"</img>
@@ -25,9 +25,9 @@ Entre em contato comigo!
  
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="react"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"  alt="typescript"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass"/></code>
-  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="50" alt="bootstrap"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="50"  alt="typescript"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="sass"/></code>
+  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="50" alt="bootstrap"/></code>
   <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php"></code>
   
 </div>
