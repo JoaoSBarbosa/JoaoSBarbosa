@@ -20,6 +20,10 @@ Entre em contato comigo!
 [![portfolio](https://img.shields.io/website?url=https://joaosbarbosa.com.br/)](https://joaosbarbosa.com.br)
 
 
+<a href="https://www.linkedin.com/in/devjbarbosa/" target="_blank">
+    <img src="https://img.shields.io/badge/-devjbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devjbarbosa/" alt="Linkedin Badge">
+</a>
+
 ## ⚡ Technologies
 
 <div align="left">
