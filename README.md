@@ -40,8 +40,6 @@ Entre em contato comigo!
 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
- </div>
-  <div align="left">
 <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
 <img src="https://img.shields.io/badge/hotjar-FD3A5C?style=for-the-badge&logo=hotjar&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
@@ -55,6 +53,50 @@ Entre em contato comigo!
 </div>
 
 </div>
+
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+   <tr border="none">
+    <td><b>🔗 Repositório</b></td>
+    <td><b>🌐 Web</b></td>
+    <td><b>📝 Language count</b></td>
+    <td><b>💡 Top language</b></td>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/JoaoSBarbosa/quizDeveloper/tree/main"><b>quizDeveloper</b></a></td>
+      <td><a href="https://quizdeveloper.vercel.app/"><b>Quiz Developer</b></a></td>
+      <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/quizDeveloper"/></td>
+      <td><img alt="top language" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/quizDeveloper"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/JoaoSBarbosa/bakcraft-project/tree/main"><b>bakcraft-project</b></a></td>
+      <td><a href="https://bikcraft.joaosbarbosa.com.br/"><b>Bakcraft</b></a></td>
+      <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/bakcraft-project"/></td>
+      <td><img alt="top" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/bakcraft-project"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JoaoSBarbosa/animais-fantastico"><b>animais-fantastico</b></a></td>
+      <td><a href="https://joaosbarbosa.github.io/animais-fantastico/"><b>Anaimais Fantásticos</b></a></td>
+      <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/animais-fantastico"/></td>
+      <td><img alt="top" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/animais-fantastico"/></td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/JoaoSBarbosa/animais-fantastico"><b>animais-fantastico</b></a></td>
+      <td><a href="https://joaosbarbosa.github.io/lightbox/"><b>Lightbox</b></a></td>
+      <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/lightbox"/></td>
+      <td><img alt="top" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/lightbox"/></td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/JoaoSBarbosa/portfolio-barbosao"><b>portfolio-barbosa</b></a></td>
+      <td><a href="https://joaosbarbosa.github.io/lightbox/"><b>Versão 1 - Portfólio</b></a></td>
+      <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/portfolio-barbosa"/></td>
+      <td><img alt="top" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/portfolio-barbosa"/></td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="left">
   <a href="https://github.com/JoaoSBarbosa">
