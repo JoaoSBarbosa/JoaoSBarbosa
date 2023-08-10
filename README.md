@@ -50,7 +50,7 @@ Entre em contato comigo!
 </div>
 
 
-<h3>Open source projects</h3>
+<h3>Some of my projects</h3>
 <table>
   <thead align="center">
    <tr border="none">
@@ -90,6 +90,12 @@ Entre em contato comigo!
       <td><a href="https://joaosbarbosa.github.io/lightbox/"><b>Versão 1 - Portfólio</b></a></td>
       <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/portfolio-barbosa"/></td>
       <td><img alt="top" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/portfolio-barbosa"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/JoaoSBarbosa/itaquaalerta"><b>itaquaalerta</b></a></td>
+      <td><a href="https://itaquaalerta.joaosbarbosa.com.br/"><b>Itaquá Alerta</b></a></td>
+      <td><img alt="Language count" src="https://img.shields.io/github/languages/count/JoaoSBarbosa/itaquaalerta"/></td>
+      <td><img alt="top" src="https://img.shields.io/github/languages/top/JoaoSBarbosa/itaquaalerta"/></td>
     </tr>
   </tbody>
 </table>
