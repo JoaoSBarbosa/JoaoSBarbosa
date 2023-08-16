@@ -103,8 +103,9 @@ Entre em contato comigo!
 <br><br>
 
 <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&theme=blue-green"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=gotham" />   
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&theme=transparent"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=transparent"/>
 </div>
+
 
 <br />
