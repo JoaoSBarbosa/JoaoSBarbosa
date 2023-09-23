@@ -1,4 +1,4 @@
-<h1>Seja bem-vindo! É ótimo tê-lo aqui.</h1>
+<h1>Seja bem-vindo!</h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/JoaoSBarbosa)
 ![GitHub User's stars](https://img.shields.io/github/stars/JoaoSBarbosa)
