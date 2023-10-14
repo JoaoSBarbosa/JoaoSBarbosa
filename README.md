@@ -102,10 +102,11 @@ Entre em contato comigo!
 </table>
 <br><br>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&theme=transparent"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=transparent"/>
-</div>
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSBarbosa&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 <br />
