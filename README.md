@@ -55,10 +55,11 @@ Entre em contato comigo!
 <table>
   <thead align="center">
    <tr border="none">
-    <td><b>🔗 Repositório</b></td>
-    <td><b>🌐 Web</b></td>
-    <td><b>📝 Language count</b></td>
-    <td><b>💡 Top language</b></td>
+<td><b>🔗 Repositório</b></td>
+<td><b>🌐 Website</b></td>
+<td><b>📝 Contagem de linguagem</b></td>
+<td><b>💡 Linguagem Principal</b></td>
+
   </tr>
   </thead>
   <tbody>
