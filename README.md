@@ -128,11 +128,8 @@ Entre em contato comigo!
 </table>
 <br><br>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<div display="flex">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSBarbosa&layout=compact&langs_count=8&card_width=320" />
-</a>
-
+</div>
 <br />
