@@ -126,7 +126,7 @@ Entre em contato comigo!
 <br><br>
 
 <div display="flex">
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa" />
-  <img height=220 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSBarbosa&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSBarbosa&layout=compact&langs_count=8&card_width=320" />
 </div>
 <br />
