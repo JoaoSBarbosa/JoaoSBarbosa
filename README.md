@@ -4,7 +4,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/JoaoSBarbosa)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JoaoSBarbosa.JoaoSBarbosa)
 
-Sou João Barbosa, desenvolvedor Full stack utilizando as linguagens Java, Node e JavaScript, para o desenvolvimento e manutenção de páginas web, sistemas e componentes de interface em WordPress.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sou+o+João,+desenvolvedor+Full+Stack+Júnior" alt="Typing SVG" />
+</p>
 
 Graduando em Análise e Desenvolvimento de Sistemas, experiência com Spring, SASS, jQuery, Bootstrap, TypeScript, ReactJs, Angular, NodeJs, SQL, MySQL, Git, Jira, testes unitários, testes de integração e metodologia ágil Scrum e Kanban. 
 
