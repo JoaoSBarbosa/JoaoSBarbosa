@@ -19,7 +19,7 @@ Entre em contato comigo!
 [![Linkedin Badge](https://img.shields.io/badge/-devjbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devjbarbosa/)](https://www.linkedin.com/in/devjbarbosa/)
 [![Instagram Badge](https://img.shields.io/badge/-@JOAO_SBX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joao_sbx/)](https://instagram.com/joao_sbx)
 [![Gmail Badge](https://img.shields.io/badge/-contato.jsbarbosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jsbarbosa@gmail.com)](mailto:contato.jsbarbosa@gmail.com)
-[![portfolio](https://img.shields.io/website?url=https://joaosbarbosa.com.br/)](https://joaosbarbosa.com.br)
+[![portfolio](https://img.shields.io/website?url=https://joaobarbosadev.vercel.app/)](https://joaobarbosadev.vercel.app/)
 
 
 
