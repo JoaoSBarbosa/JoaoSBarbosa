@@ -14,9 +14,9 @@ Bem-vindo ao meu GitHub! Sou Desenvolvedor Fullstack Junior com experiência em 
 [![Gmail Badge](https://img.shields.io/badge/-contato.jsbarbosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jsbarbosa@gmail.com)](mailto:contato.jsbarbosa@gmail.com)
 [![portfolio](https://img.shields.io/website?url=https://joaobarbosadev.vercel.app/)](https://joaobarbosadev.vercel.app/)
 
+![Animação](https://github.com/user-attachments/assets/dc3762d6-6991-4962-a626-ecab9ac5435d)  
+Créditos: [kirokaze](https://www.deviantart.com/kirokaze/gallery)
 
-<br/>
-<br/>
 
 ## 🔧 Tecnologias Principais
 
