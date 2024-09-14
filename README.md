@@ -74,8 +74,8 @@ Projetos em destaque: [Sistema Web - Gerencimando de Atndimentos](http://191.252
 
 ## 📚 Formação e Certificações
 
-- **Tecnologo em Analise e Desenvolvimento de Sistemas** - UNINTER
-- **Assistente Técnico de Programação** - ETEC
+- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UNINTER
+- **Auxiliar de Desenvolvimento de Sistema** - ETEC
 - **Formação Java** - Devsuperior
 ---
 
