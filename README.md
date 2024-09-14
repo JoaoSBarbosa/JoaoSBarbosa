@@ -92,6 +92,18 @@ Projetos em destaque: [Sistema Web - Gerencimando de Atndimentos](http://191.252
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSBarbosa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=310" />
 </div>
 
+
+<div display="flex">
+  <a
+    href="https://github.com/ryo-ma/github-profile-trophy"
+    title="repositório de troféus"
+  >
+    <img
+      width="800"
+      src="https://github-profile-trophy.vercel.app/?username=JoaoSBarbosa&column=8&theme=darkhub&no-frame=true&no-bg=true"
+    />
+  </a>
+</div>
 ---
 
 <br />
