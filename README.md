@@ -54,7 +54,7 @@ Projetos em destaque: [ByFanstore](https://byfanstore.com/), [Beer Fanstore](htt
 <br/>
 <br/>
 
-[<img align="left" height="94px" width="100px" alt="Rocketseat" src="https://lh3.googleusercontent.com/proxy/ACy30n7UHy7oennfU0SKywWAYowHQijpPwS4Uj-hVxp4iUyTElqFhuxBi8czsoJH0J1LDMA6lmySjR2LccJTGoxKqyo6RsD8GOoB4QyYuVk"/>](http://www.angulosistemas.com.br/)
+[<img align="left" height="94px" width="100px" alt="logo Angulo" src="https://github.com/user-attachments/assets/a3db5419-a075-491f-98c1-e9a85e057171"/>](http://www.angulosistemas.com.br/)
 
 **Desenvolvedor Fullstack (Jr)** \
 [**Angulo Sistemas**](http://www.angulosistemas.com.br/) • 2023- atualmente \
