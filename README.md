@@ -38,7 +38,7 @@ Sistema de catálogo de produtos, onde é possível cadastrar, visualizar, atual
 ### 📌 [Spring Microservices Credit](https://github.com/joao-barbosa/Spring-Microservices-Credit)
 Sistema de microserviços com autenticação via OAuth2, implementando CRUDs completos e integração com mensageria.
 
-[![Spring Microservices Credit](https://github.com/JoaoSBarbosa/spring-microservices-credit/blob/main/diagrama.png)](https://github.com/joao-barbosa/Spring-Microservices-Credit)
+[![Spring Microservices Credit](https://github.com/JoaoSBarbosa/spring-microservices-credit/blob/main/diagrama.png)](https://github.com/JoaoSBarbosa/spring-microservices-credit)
 
 ---
 
