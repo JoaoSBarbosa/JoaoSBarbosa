@@ -44,22 +44,23 @@ Sistema de microserviços com autenticação via OAuth2, implementando CRUDs com
 
 ## 🧰 Experiência de trabalho
 
-
-[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/8c99ded4-e4db-4414-a49b-6bd8aa910a37"/>](https://byfanstore.com/)
-
-**Assistente de Programação** \
-[**By Fanstore**](https://byfanstore.com) • 2022 - 2023 \
-Linguagens & Tecnologias: `PHP`, `REACT`, `Wordpress`, `JavaScript`, `HTML`, `SASS`,\
-Projetos em destaque: [ByFanstore](https://byfanstore.com/), [Beer Fanstore](https://beerfanstore.com.br/)
-<br/>
-<br/>
-
 [<img align="left" height="94px" width="100px" alt="logo Angulo" src="https://github.com/user-attachments/assets/a3db5419-a075-491f-98c1-e9a85e057171"/>](http://www.angulosistemas.com.br/)
 
 **Desenvolvedor Fullstack (Jr)** \
 [**Angulo Sistemas**](http://www.angulosistemas.com.br/) • 2023- atualmente \
 Linguagens & Tecnologias: `Java`, `Spring`, `React`,`NextJs`,`Tailwind`,`MySQL`\
 Projetos em destaque: [Sistema Web - Gerencimando de Atndimentos](http://191.252.221.124/)
+<br/>
+<br/>
+[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/8c99ded4-e4db-4414-a49b-6bd8aa910a37"/>](https://byfanstore.com/)
+
+**Assistente de Programação** \
+[**By Fanstore**](https://byfanstore.com) • 2022 - 2023 \
+Linguagens & Tecnologias: `PHP`, `REACT`, `Wordpress`, `JavaScript`, `HTML`, `SASS`,\
+Projetos em destaque: [ByFanstore](https://byfanstore.com/), [Beer Fanstore](https://beerfanstore.com.br/)
+
+
+
 
 ---
 
