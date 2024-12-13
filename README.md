@@ -82,8 +82,8 @@ Projetos em destaque: [ByFanstore](https://byfanstore.com/), [Beer Fanstore](htt
 
 ## 📫 Contato
 
-- **LinkedIn**: [linkedin.com/in/joao-barbosa](https://linkedin.com/in/joao-barbosa)
-- **E-mail**: [joaobarbosa@gmail.com](mailto:joaobarbosa@gmail.com)
+- **LinkedIn**: [linkedin.com/in/devjbarbosa](https://www.linkedin.com/in/devjbarbosa/)
+- **E-mail**: [contato.joaobarbosadev@gmail.com](mailto:contato.joaobarbosadev@gmail.com)
 
 ---
 
