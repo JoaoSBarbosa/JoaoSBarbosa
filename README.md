@@ -100,6 +100,7 @@
   <img src="https://raw.githubusercontent.com/JoaoSBarbosa/JoaoSBarbosa/main/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
+
 ---
 
 ## 🎨 Créditos Visuais
