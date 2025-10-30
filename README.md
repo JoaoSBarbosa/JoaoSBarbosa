@@ -101,16 +101,5 @@
 </p>
 
 
----
-
-## 🎨 Créditos Visuais
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dc3762d6-6991-4962-a626-ecab9ac5435d" width="600" alt="pixel-art-banner" />
-  <br/>
-  <sub>Arte por <a href="https://www.deviantart.com/kirokaze/gallery">kirokaze</a></sub>
-</p>
-
----
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:0a192f&height=120&section=footer"/>
