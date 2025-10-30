@@ -1,114 +1,112 @@
-<h1>Seja bem-vindo!</h1>
+<!-- Banner principal -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,100:1e90ff&height=180&section=header&text=João%20Barbosa%20👨‍💻&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-![GitHub followers](https://img.shields.io/github/followers/JoaoSBarbosa)
-![GitHub User's stars](https://img.shields.io/github/stars/JoaoSBarbosa)
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=JoaoSBarbosa.JoaoSBarbosa)
+<p align="center">
+  <b>Desenvolvedor Fullstack Java & React</b> <br/>
+  Apaixonado por tecnologia, arquitetura limpa e construção de sistemas escaláveis. 🚀
+</p>
 
-
-# João Barbosa | Desenvolvedor Fullstack
-
-Bem-vindo ao meu GitHub! Sou Desenvolvedor Fullstack Junior com experiência em projetos backend Java/Spring e frontend React/Next.js. Tenho paixão por construir soluções completas, desde a modelagem de banco de dados até a interface do usuário, utilizando as mais recentes tecnologias do mercado.
-
-[![Linkedin Badge](https://img.shields.io/badge/-devjbarbosa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/devjbarbosa/)](https://www.linkedin.com/in/devjbarbosa/)
-[![Instagram Badge](https://img.shields.io/badge/-@JOAO_SBX-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/joao_sbx/)](https://instagram.com/joao_sbx)
-[![Gmail Badge](https://img.shields.io/badge/-contato.jsbarbosa@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.jsbarbosa@gmail.com)](mailto:contato.jsbarbosa@gmail.com)
-[![portfolio](https://img.shields.io/website?url=https://joaobarbosadev.vercel.app/)](https://joaobarbosadev.vercel.app/)
-
-![Animação](https://github.com/user-attachments/assets/dc3762d6-6991-4962-a626-ecab9ac5435d)  
-Créditos: [kirokaze](https://www.deviantart.com/kirokaze/gallery)
-
-
-## 🔧 Tecnologias Principais
-
-- **Backend**: Java, Spring Boot, Microserviços, REST APIs
-- **Frontend**: React, Next.js, Tailwind CSS, TypeScript
-- **Banco de Dados**: MySQL, MongoDB
-- **Outras Ferramentas**: Docker, Keycloak, RabbitMQ, Git, Postman
-
-
-## 📝 Projetos Principais
-
-### 📌 [JBCatalog - Plataforma de catalogo e-commerce](https://github.com/JoaoSBarbosa/catalog-javaspring)
-Sistema de catálogo de produtos, onde é possível cadastrar, visualizar, atualizar e deletar produtos e categorias. Foi desenvolvido utilizando Java com Spring Boot
-
-[![WolfEdu](https://github.com/JoaoSBarbosa/catalog-javaspring/blob/main/backend/src/main/resources/img/print1.png)](https://github.com/joao-barbosa/WolfEdu)
+<p align="center">
+  <a href="https://github.com/JoaoSBarbosa"><img src="https://img.shields.io/github/followers/JoaoSBarbosa?label=Seguidores&style=for-the-badge&color=0A66C2" /></a>
+  <a href="https://github.com/JoaoSBarbosa"><img src="https://img.shields.io/github/stars/JoaoSBarbosa?label=Stars&style=for-the-badge&color=yellow" /></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JoaoSBarbosa.JoaoSBarbosa" alt="Visitantes" style="height:28px"/>
+</p>
 
 ---
 
-### 📌 [Spring Microservices Credit](https://github.com/joao-barbosa/Spring-Microservices-Credit)
-Sistema de microserviços com autenticação via OAuth2, implementando CRUDs completos e integração com mensageria.
+## 💫 Sobre Mim
+
+🎓 Formado em **Análise e Desenvolvimento de Sistemas (UNINTER)**  
+💻 Trabalho com **Java / Spring Boot** no backend e **React / Next.js** no frontend  
+🐳 Entusiasta de **Docker**, **DevOps**, **mensageria** e **microsserviços**  
+🎯 Sempre buscando **melhorar, aprender e entregar valor real**  
+
+> "Código limpo é como poesia que funciona."
+
+---
+
+## 🧰 Stack Tecnológica
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,ts,js,tailwind,html,css,mysql,postgres,mongodb,docker,git,linux,vscode,postman" />
+</p>
+
+---
+
+## 🏆 Estatísticas
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSBarbosa&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSBarbosa&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🚀 Projetos Principais
+
+### 🛍️ [JBCatalog - Plataforma E-commerce](https://github.com/JoaoSBarbosa/catalog-javaspring)
+> Sistema de catálogo de produtos completo, com CRUD, categorias e API RESTful usando Spring Boot.
+
+[![JBCatalog Screenshot](https://github.com/JoaoSBarbosa/catalog-javaspring/blob/main/backend/src/main/resources/img/print1.png)](https://github.com/JoaoSBarbosa/catalog-javaspring)
+
+---
+
+### 💳 [Spring Microservices Credit](https://github.com/JoaoSBarbosa/spring-microservices-credit)
+> Plataforma de crédito construída com microserviços Spring Cloud, OAuth2 e mensageria RabbitMQ.
 
 [![Spring Microservices Credit](https://github.com/JoaoSBarbosa/spring-microservices-credit/blob/main/diagrama.png)](https://github.com/JoaoSBarbosa/spring-microservices-credit)
 
 ---
 
-## 🧰 Experiência de trabalho
+## 💼 Experiência Profissional
 
-[<img align="left" height="94px" width="100px" alt="logo Angulo" src="https://github.com/user-attachments/assets/a3db5419-a075-491f-98c1-e9a85e057171"/>](http://www.angulosistemas.com.br/)
-
-**Desenvolvedor Fullstack (Jr)** \
-[**Angulo Sistemas**](http://www.angulosistemas.com.br/) • 2023- atualmente \
-Linguagens & Tecnologias: `Java`, `Spring`, `React`,`NextJs`,`Tailwind`,`MySQL`\
-Projetos em destaque: [Sistema Web - Gerencimando de Atndimentos](http://191.252.221.124/)
-<br/>
-<br/>
-[<img align="left" height="94px" width="100px" alt="Warpnet" src="https://github.com/user-attachments/assets/8c99ded4-e4db-4414-a49b-6bd8aa910a37"/>](https://byfanstore.com/)
-
-**Assistente de Programação** \
-[**By Fanstore**](https://byfanstore.com) • 2022 - 2023 \
-Linguagens & Tecnologias: `PHP`, `REACT`, `Wordpress`, `JavaScript`, `HTML`, `SASS`,\
-Projetos em destaque: [ByFanstore](https://byfanstore.com/), [Beer Fanstore](https://beerfanstore.com.br/)
-
-
-
+| Cargo | Empresa | Período | Tecnologias |
+|:------|:---------|:---------|:--------------|
+| 👨‍💻 Desenvolvedor Fullstack | [Metasix Tecnologia](https://www.metasix.com.br/) | 2025 - Atual | Java · Wildfly · Spring · Angular · Nest.js · Elasticsearch · Postgresql |
+| 👨‍💻 Desenvolvedor Java Jr | [Angulo Sistemas](http://www.angulosistemas.com.br/) | 2023 - 2025 | Java · Spring · React · Next.js · Tailwind · MySQL |
+| 💻 Assistente de Programação | [By Fanstore](https://byfanstore.com) | 2022 - 2023 | PHP · React · WordPress · Sass |
 
 ---
 
-## 🚀 Habilidades Complementares
+## 📜 Certificações & Formação
 
-- **Autenticação e Autorização**: Implementação de JWT e OAuth2
-- **Desenvolvimento de Microserviços**: Utilizando Spring Cloud e Eureka
-- **Gerenciamento de Mensageria**: RabbitMQ
-- **Integração Contínua/Entrega Contínua (CI/CD)**: Configurações de pipelines com Jenkins e Docker
-
----
-
-## 📚 Formação e Certificações
-
-- **Tecnólogo em Análise e Desenvolvimento de Sistemas** - UNINTER
-- **Auxiliar de Desenvolvimento de Sistema** - ETEC
-- **Formação Java** - Devsuperior
----
-
-## 📫 Contato
-
-- **LinkedIn**: [linkedin.com/in/devjbarbosa](https://www.linkedin.com/in/devjbarbosa/)
-- **E-mail**: [contato.joaobarbosadev@gmail.com](mailto:contato.joaobarbosadev@gmail.com)
+🎓 **Análise e Desenvolvimento de Sistemas** — UNINTER  
+📘 **Formação Java Completa** — DevSuperior  
+💡 **Auxiliar de Desenvolvimento de Sistemas** — ETEC  
 
 ---
 
+## 🌐 Conecte-se comigo
 
-<div display="flex">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&theme=dark&hide_border=false&include_all_commits=true" />
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JoaoSBarbosa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&card_width=310" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/devjbarbosa/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://instagram.com/joao_sbx"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:contato.joaobarbosadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://joaobarbosadev.vercel.app"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+</p>
 
-
-<div display="flex">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=JoaoSBarbosa&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</div>
 ---
 
-<br />
+## 🐍 Contribuições animadas
 
-**Obrigado pela visita!** 😄
+<p align="center">
+  <img src="https://github.com/JoaoSBarbosa/JoaoSBarbosa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
-<br />
+---
+
+## 🎨 Créditos Visuais
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/dc3762d6-6991-4962-a626-ecab9ac5435d" width="600" alt="pixel-art-banner" />
+  <br/>
+  <sub>Arte por <a href="https://www.deviantart.com/kirokaze/gallery">kirokaze</a></sub>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e90ff,100:0a192f&height=120&section=footer"/>
