@@ -1,0 +1,30 @@
+name: 🐍 Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 🧩 Checkout do código
+        uses: actions/checkout@v4
+
+      - name: 🐍 Gerar snake animation (SVG)
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+
+      - name: 💾 Commit do arquivo gerado
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: "chore: update snake animation 🐍"
+          file_pattern: dist/*
