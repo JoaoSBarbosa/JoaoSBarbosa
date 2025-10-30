@@ -3,19 +3,21 @@ name: 🐍 Generate Snake Animation
 on:
   schedule:
     - cron: "0 */6 * * *"  # a cada 6 horas
-  workflow_dispatch:
+  workflow_dispatch:        # permite rodar manualmente
 
 permissions:
-  contents: write
+  contents: write  # necessário para commitar arquivos
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ Pega o código do repo
       - name: 🧩 Checkout do código
         uses: actions/checkout@v4
 
+      # 2️⃣ Gera o SVG da snake
       - name: 🐍 Gerar snake animation (SVG)
         uses: Platane/snk@v3
         with:
@@ -23,13 +25,15 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
+      # 3️⃣ Commit e push direto para main
       - name: 💾 Commit do arquivo gerado (main)
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          mkdir -p dist
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git checkout main
           mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
           git commit -m "chore: update snake animation 🐍" || echo "Nada para commitar"
-          git push origin main
+          git push https://x-access-token:${GH_TOKEN}@github.com/${{ github.repository }} main
