@@ -3,10 +3,10 @@ name: 🐍 Generate Snake Animation
 on:
   schedule:
     - cron: "0 */6 * * *"  # a cada 6 horas
-  workflow_dispatch:        # permite rodar manualmente
+  workflow_dispatch:
 
 permissions:
-  contents: write  # necessário pra commitar a imagem gerada
+  contents: write
 
 jobs:
   build:
@@ -23,14 +23,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
 
-      - name: 💾 Commit do arquivo gerado (branch output)
+      - name: 💾 Commit do arquivo gerado (main)
         run: |
           mkdir -p dist
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git fetch origin
-          git checkout -B output
+          git checkout main
           mv dist/github-contribution-grid-snake.svg ./github-contribution-grid-snake.svg
           git add github-contribution-grid-snake.svg
           git commit -m "chore: update snake animation 🐍" || echo "Nada para commitar"
-          git push origin output --force
+          git push origin main
