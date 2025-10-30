@@ -93,8 +93,11 @@
 
 ## 🐍 Contribuições animadas
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github.com/JoaoSBarbosa/JoaoSBarbosa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p> -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoaoSBarbosa/JoaoSBarbosa/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
