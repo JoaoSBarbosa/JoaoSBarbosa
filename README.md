@@ -28,21 +28,37 @@
 ## 🧰 Stack Tecnológica
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,ts,js,tailwind,html,css,mysql,postgres,mongodb,docker,git,linux,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,ts,js,tailwind,html,css,mysql,postgres,docker,git,linux,vscode,postman,cs,dotnet,rabbitmq" />
 </p>
 
 ---
 
 ## 🏆 Estatísticas
 
-<p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSBarbosa&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
-</p>
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  
+  <!-- GitHub Stats -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+
+  <!-- Top Langs -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&layout=compact&langs_count=10&theme=tokyonight" />
+
+  <!-- Streak -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSBarbosa&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
+
+</div>
+
+---
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoaoSBarbosa&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 </p>
+
+
+
+
+
+
 
 ---
 
@@ -80,6 +96,16 @@
 
 ---
 
+## 📊 Linguagens mais usadas
+
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
+
+
 ## 🌐 Conecte-se comigo
 
 <p align="center">
@@ -91,14 +117,6 @@
 
 ---
 
-## 🐍 Contribuições animadas
-
-<!-- <p align="center">
-  <img src="https://github.com/JoaoSBarbosa/JoaoSBarbosa/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p> -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JoaoSBarbosa/JoaoSBarbosa/main/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 
 
