@@ -35,19 +35,17 @@
 
 ## 🏆 Estatísticas
 
+
 <div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
   
   <!-- GitHub Stats -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=JoaoSBarbosa&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
   <!-- Top Langs -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoSBarbosa&layout=compact&langs_count=10&theme=tokyonight" />
-
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JoaoSBarbosa&langs_count=10&theme=tokyonight&layout=compact&card_width=320" />
   <!-- Streak -->
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=JoaoSBarbosa&theme=tokyonight&hide_border=false&date_format=j%20M%5B%20Y%5D" />
 
 </div>
-
 
 ---
 
