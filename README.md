@@ -81,8 +81,9 @@
 
 | Cargo | Empresa | Período | Tecnologias |
 |:------|:---------|:---------|:--------------|
-| 👨‍💻 Desenvolvedor Fullstack | [Metasix Tecnologia](https://www.metasix.com.br/) | 2025 - Atual | Java · Wildfly · Spring · Angular · Nest.js · Elasticsearch · Postgresql |
-| 👨‍💻 Desenvolvedor Java Jr | [Angulo Sistemas](http://www.angulosistemas.com.br/) | 2023 - 2025 | Java · Spring · React · Next.js · Tailwind · MySQL |
+| 👨‍💻 Desenvolvedor Pleno | [D.Andrade](https://dandrade.com.br/sobre-nos/) | 2025 - Atual | C# · .NET · Azure Bus · AzureDevops · SqlServer  |
+| 👨‍💻 Desenvolvedor Fullstack III | [Metasix Tecnologia](https://www.metasix.com.br/) | 2025 - 2025 | Java · Wildfly · Spring · Angular · Nest.js · Elasticsearch · Postgresql |
+| 👨‍💻 Desenvolvedor Java Jr II | [Angulo Sistemas](http://www.angulosistemas.com.br/) | 2023 - 2025 | Java · Spring · React · Next.js · Tailwind · MySQL |
 | 💻 Assistente de Programação | [By Fanstore](https://byfanstore.com) | 2022 - 2023 | PHP · React · WordPress · Sass |
 
 ---
@@ -96,18 +97,13 @@
 ---
 
 
-## 🌐 Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/devjbarbosa/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://instagram.com/joao_sbx"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:contato.joaobarbosadev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://joaobarbosadev.vercel.app"><img src="https://img.shields.io/badge/-Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 </p>
 
 ---
-
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 
 
